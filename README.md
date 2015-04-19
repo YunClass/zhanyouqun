@@ -1,2 +1,2 @@
-# zhanyouqun
-战友群
+# zhanyouqun -bbs
+战友群 - bbs
