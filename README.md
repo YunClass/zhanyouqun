@@ -1,2 +1,2 @@
-# zhanyouqun -bbs
-战友群 - bbs
+# zhanyouqun -wordpress
+战友群 - wordpress
